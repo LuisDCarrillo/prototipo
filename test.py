@@ -1,7 +1,8 @@
 from customtkinter import *
 import os
 
-##Usé este archivo para probar la app sin necesidad de iniciar sesión, por lo mismo no tiene un botón para cerrar sesión
+##Usé este archivo para probar la app sin necesidad de iniciar sesión, 
+#por lo mismo no tiene un botón para cerrar sesión
 
 root = CTk()
 root.title("UI (Nombre temporal, favor cambiar)")
