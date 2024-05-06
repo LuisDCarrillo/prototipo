@@ -1,0 +1,24 @@
+- Inicio de sesión
+
+Para iniciar sesión en el programa, debes colocar el usuario y contraseña que te han sido asignados en sus respectivos campos.
+
+- Cambio de tema
+
+El programa por defecto está en el mismo tema que el sistema, sin embargo, si el usuario lo desea, puede cambiarlo.
+
+- Boton de compra
+
+Con este botón se suman elementos al inventario de un producto. Para poder comprar un producto, este debe ser ingresado en la base de datos usando el boton Añadir Medicamento a la Lista
+
+- Boton de venta
+
+Con este botón se restan elementos al inventario de un producto. Para poder vender un producto, este debe ser ingresado en la base de datos usando el boton Añadir Medicamento a la Lista
+
+- Boton Añadir Medicamento a la Lista
+
+Con este botón se añaden medicamentos al inventario. Al añadir un elemento puede indicar la cantidad con la que está ingresando al sistema (por defecto es 0)
+
+
+
+
+
